@@ -13,3 +13,4 @@ Steps to run:
 4. type in SCPI command and send to instrument
 
 link to walkthru video 
+https://www.youtube.com/watch?v=L14RoBQIX5A 
